@@ -1,0 +1,138 @@
+[
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Como se llama el papá de Bart simpsion?",
+        "respuesta": "Homero",
+        "incorrecta1": "Jefe Gorgory",
+        "incorrecta2": "Marge",
+        "incorrecta3": "Flanders",
+        "imagen": "https://i.ibb.co/Jvjr07S/lossimpson.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿A que País Maradona hizo este gol?",
+        "respuesta": "Inglaterra",
+        "incorrecta1": "Alemania",
+        "incorrecta2": "Italia",
+        "incorrecta3": "Holanda",
+        "imagen": "https://i.ibb.co/jRKmXMP/Maradona-shilton-mano-dios.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿A que País Maradona hizo este gol?",
+        "respuesta": "Inglaterra",
+        "incorrecta1": "Alemania",
+        "incorrecta2": "Italia",
+        "incorrecta3": "Holanda",
+        "imagen": "https://i.ibb.co/jRKmXMP/Maradona-shilton-mano-dios.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año llegó el hombre a la Luna?",
+        "respuesta": "1969",
+        "incorrecta1": "1937",
+        "incorrecta2": "1988",
+        "incorrecta3": "1952",
+        "imagen": "https://i.ibb.co/55QhPnV/7-DX5-NYOSTN2-ZQPSJJD7-KGTOPX4.webp",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Geografia",
+        "pregunta": "¿Qué país está entre Perú y Colombia?",
+        "respuesta": "Ecuador",
+        "incorrecta1": "Venezuela",
+        "incorrecta2": "Brasil",
+        "incorrecta3": "Colombia",
+        "imagen": "https://i.ibb.co/gTbLHpt/South-America-orthographic-projection-svg.png",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "Geografia",
+        "pregunta": "¿En qué país se encuentra el pico Aconcagua?",
+        "respuesta": "Argentina",
+        "incorrecta1": "Alemania",
+        "incorrecta2": "Peru",
+        "incorrecta3": "España",
+        "imagen": "https://i.ibb.co/s5m0bhC/aconcagua-1.webp",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "Geografia",
+        "pregunta": "¿Entre qué países se encuentra el Estrecho de Bering?",
+        "respuesta": "Estados Unidos y Rusia",
+        "incorrecta1": "Argentina y Chile",
+        "incorrecta2": "Brasil y Bolivia",
+        "incorrecta3": "Peru y Ecuador",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Cuántos elementos tiene la tabla periódica?",
+        "respuesta": "118",
+        "incorrecta1": "97",
+        "incorrecta2": "190",
+        "incorrecta3": "103",
+        "imagen": "https://i.ibb.co/L06yPvv/objetos-laboratorio-ciencias-23-2148488312.webp",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿De los cinco sentidos, ¿cuál es el que se desarrolla primero?",
+        "respuesta": "El olfato",
+        "incorrecta1": "El gusto",
+        "incorrecta2": "El tacto",
+        "incorrecta3": "El oido",
+        "imagen": "https://i.ibb.co/7CJ6gRM/file.png",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿A partir de qué planta se elabora el tequila?",
+        "respuesta": "Agave",
+        "incorrecta1": "Aloe vera",
+        "incorrecta2": "Girasol",
+        "incorrecta3": "Malta",
+        "imagen": "https://i.ibb.co/6NFP9VH/shots-de-tequila-con-sal-k-ZTQh-VLHv-1200x630-1.webp",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "Entretenmiento",
+        "pregunta": "¿Cuál fue la primera película de Disney?",
+        "respuesta": "Blancanieves",
+        "incorrecta1": "Pinocho",
+        "incorrecta2": "Dumbo",
+        "incorrecta3": "Bambi",
+        "imagen": "https://i.ibb.co/k97PfNF/0526-ZP-1270-MS-xak-R2-1x1.webp",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "Entrenimiento",
+        "pregunta": "¿Cómo se llama la madre de Simba en la película de “El rey león”?",
+        "respuesta": "Sarabi",
+        "incorrecta1": "Scar",
+        "incorrecta2": "Pumba",
+        "incorrecta3": "Rafiki",
+        "imagen": "https://i.ibb.co/5rm4p5q/450-1000.jpg", 
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Cuáles son los colores de los cinco anillos olímpicos?",
+        "respuesta": "Amarillo, azul, negro, rojo y verde.",
+        "incorrecta1": "Blanco, gris, negro, plateado y verde.",
+        "incorrecta2": "Violeta, azul, naranja, celeste y amarillo.",
+        "incorrecta3": "Gris, verde ,negro, rojo y morado.",
+        "objectFit": "contain"
+    }
+]
